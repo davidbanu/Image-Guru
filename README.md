@@ -9,7 +9,7 @@ This is a responsive image gallery where you can rate your pictures, upload new 
 To use this website, choose one of the following options to get started:
 * Fork this repository on GitHub
 * Send an email to our team: sansfins.contact@gmail.com
-* 
+
 ## Bugs and Issues
 
 Have a bug or an issue with this theme? [Open a new issue](https://github.com/davidbanu/issues) here on GitHub or leave a comment on the [Website page](http://davidbanu.com/cpntact).
