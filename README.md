@@ -8,11 +8,11 @@ This is a responsive image gallery where you can rate your pictures, upload new 
 
 To use this website, choose one of the following options to get started:
 * Fork this repository on GitHub
-* Send an email to our team: sansfins.contact@gmail.com
+* Send an email to me at: banudavidcip@gmail.com
 
 ## Bugs and Issues
 
-Have a bug or an issue with this theme? [Open a new issue](https://github.com/davidbanu/issues) here on GitHub or leave a comment on the [Website page](http://davidbanu.com/cpntact).
+Have a bug or an issue with this theme? [Open a new issue](https://github.com/davidbanu/issues) here on GitHub or leave a comment on my website: [Website page](http://davidbanu.com/contact).
 
 ## Creator
 
@@ -21,7 +21,6 @@ Image Guru was created by and is maintained by **David Banu**, Lead Developer at
 * https://twitter.com/davidbanucyp
 * https://github.com/davidbanu
 
-Image Guru is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
 ## Copyright and License
 
